@@ -163,14 +163,14 @@ get_header();
         <div class="row">
           <div class=" col-sm-12 d-flex">
             <p>
-              <span class="titleCash">Cash Management.</span>
-              <span class="parCash">
+              <span class="titleCash wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.6s">Cash Management.</span>
+              <span class="parCash wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.8s">
                 Actualmente, más de 10,000 empresas y corporativos usan nuestra plataforma de Cash Management, la cual está construida con las mejores herramientas para agilizar tu negocio.
               </span>
             </p>
           </div>
           <div class=" col-sm-12 d-flex">
-            <ul class="listTarEmpresas">
+            <ul class="listTarEmpresas wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1s">
               <li>- Dispersión masiva de pagos.</li>
               <li>- Tesorería global.</li>
               <li>- Administración de múltiples usuarios en la misma cuenta.</li>
@@ -200,11 +200,11 @@ get_header();
         <div class="row">
           <div class=" col-sm-12 d-flex">
             <p>
-              <span class="titleNomina">Tarjeta Nómina.</span>
-              <span class="parNomina">
+              <span class="titleNomina wow fadeInRight" data-wow-duration="0.s" data-wow-delay="0.6s">Tarjeta Nómina.</span>
+              <span class="parNomina wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.8s">
                 Creamos una tarjeta de débito perfecta para tu negocio. La Tarjeta Nómina es la manera más fácil de pagar la nómina de tus empleados. Se puede administrar desde la app móvil para lograr una experiencia fluida, segura e intuitiva.
               </span>
-              <span class="parNomina parNomina2">
+              <span class="parNomina parNomina2 wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="1s">
                 Aprovecha todos los beneficios y paquetes asistenciales que ofrece la tarjeta:
               </span>
             </p>
@@ -214,7 +214,7 @@ get_header();
               <!-- Control the column width, and how they should appear on different devices -->
               <div class="row">
                 <div class="col-sm-6">
-                  <ul class="listTarEmpresas coloBlack">
+                  <ul class="listTarEmpresas coloBlack wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.6s">
                     <li>Asistencia Médica</li>
                     <li>Asistencia Psicológica</li>
                     <li>Asistencia Nutricional</li>
@@ -223,7 +223,7 @@ get_header();
                   </ul>
                 </div>
                 <div class="col-sm-6">
-                  <ul class="listTarEmpresas coloBlack">
+                  <ul class="listTarEmpresas coloBlack wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.8s">
                     <li>Asistencia Legal</li>
                     <li>Asistencia Funeraria</li>
                     <li>Asistencia Mascota</li>
@@ -294,14 +294,14 @@ get_header();
   <div class="container-fluid d-flex justify-content-left sectionQueremos empresas ">      
     <div class="row container d-flex justify-content-around">
         <div class="col-sm-10 mb-3" > 
-            <h3>Tarjeta Ejecutiva</h3>
+            <h3 class="wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.6s">Tarjeta Ejecutiva</h3>
         </div>
-        <div class="col-sm-10 mt-5" > 
+        <div class="col-sm-10 mt-5 wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.8s"> 
             <p>Administra el saldo de esta tarjeta desde tu cuenta empresarial <br />para que tus empleados puedan pagar viáticos, viajes o <br/> cualquier gasto que requieras en tu negocio.</p>
             <br />
             <p class="second">Ofrece a tus empleados un paquete de asistencias <br/> especializadas para viajes de negocio .</p>
             <br />
-          <ul class="listEmpresas">
+          <ul class="listEmpresas wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="1s">
             <li>
             Asistencia de Viaje</li>
             <li>
@@ -334,7 +334,7 @@ get_header();
     <div class="col-sm-6 bgsImgContact d-none d-sm-block">
       <img src="/wp-content/themes/peibo-child/assets/img/empresas/contactoempresa.png" />
     </div>
-    <div class="col-sm-6 contentFrm justify-content-center d-flex">
+    <div class="col-sm-6 contentFrm justify-content-center d-flex wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.6s">
        <div class="col-sm-12 justify-content-center d-flex pt-2" style="position:relative;">
             
         <div class="pt-5" style="position:relative;">
