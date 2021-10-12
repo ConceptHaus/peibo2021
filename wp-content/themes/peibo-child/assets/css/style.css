@@ -1829,11 +1829,10 @@ form.contentFrm {
 }
 
 .bgsImgContact {
-  margin: 0% !important;
-  padding: 0% !important;
+  margin: 0% !important; padding: 0% !important; position: relative; overflow: hidden;
 }
 .bgsImgContact img {
-  width: 100%;
+  width: auto; height: 100%; display: block; margin: 0; padding: 0; object-fit: contain; font-family: 'object-fit: contain'; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
 }
 
 /* *************   Page privacy           ********************** */
@@ -3554,7 +3553,7 @@ body.is-preload .bannerInt > .titleInt {
     padding: 0% !important;
   }
   .bgsImgContact img {
-    width: 110%;
+    width: auto;
   }
 
   .sectionTar {

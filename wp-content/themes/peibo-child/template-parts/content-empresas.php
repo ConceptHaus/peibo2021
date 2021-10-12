@@ -337,7 +337,7 @@ get_header();
     <div class="col-sm-6 contentFrm justify-content-center d-flex wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.6s">
        <div class="col-sm-12 justify-content-center d-flex pt-2" style="position:relative;">
             
-        <div class="pt-5" style="position:relative;">
+        <div class="formGeneral frmPersonal mt-5 contentFrm" style="position:relative;">
           <?php echo do_shortcode('[contact-form-7 id="104" title="Formulario Contacto"]'); ?>
         </div><!-- end.form -->
       </div>
