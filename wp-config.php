@@ -25,13 +25,13 @@
 define( 'DB_NAME', 'peibov2' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
-// define( 'DB_USER', 'peibo' );
+#define( 'DB_USER', 'root' );
+ define( 'DB_USER', 'peibo' );
 
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
-// define( 'DB_PASSWORD', 'o49f136e2lapcql09pg5' );
+#define( 'DB_PASSWORD', '' );
+ define( 'DB_PASSWORD', 'o49f136e2lapcql09pg5' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
