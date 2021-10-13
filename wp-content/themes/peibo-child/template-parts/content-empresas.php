@@ -194,7 +194,7 @@ get_header();
       <!-- Control the column width, and how they should appear on different devices -->
     <div class="row ">
       <div class="col-sm-6">
-        <img class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" src="/wp-content/themes/peibo-child/assets/img/empresas/Gif.gif" width="90%" alt="Peibo" />
+        <img class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" src="/wp-content/themes/peibo-child/assets/img/empresas/Peibo.gif" width="90%" alt="Peibo" />
       </div>
       <div class="col-sm-6" >
         <div class="row">
