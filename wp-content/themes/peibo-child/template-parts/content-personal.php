@@ -165,7 +165,7 @@ get_header();
     </div>
   </div>
 
-  <div class="downloadApp">
+ <!-- <div class="downloadApp">
     <div class="container sectionStores">
       <div class="row justify-content-center">
         <div class="col-sm-12 d-flex contCvv" > 
@@ -183,7 +183,7 @@ get_header();
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 </section>
 
 <section class="secMaskTwo mask2">
@@ -195,7 +195,7 @@ get_header();
       </div> 
       <div class="col-sm-11 d-flex justify-content-center text-center mb-4 offset-sm-1 boxDesc">
         <p>
-          Es muy importante para nosotros construir una empresa con valores que estén alineados con el escenario actual en el mundo, por ello, mantener la seguridad y privacidad de tu cuenta es nuestra máxima prioridad. 
+          Somos una empresa 100% mexicana que busca una inclusión financiera a través de herramientas fáciles de utilizar, protegiendo la información de nuestros clientes/usuarios.
         </p>
       </div>
       <div class="col-sm-9 d-flex justify-content-start offset-sm-4 mt-3" >
