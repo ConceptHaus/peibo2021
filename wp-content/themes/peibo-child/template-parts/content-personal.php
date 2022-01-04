@@ -215,7 +215,7 @@ get_header();
           <h3>Queremos diseñar y ofrecer productos que fomenten tu salud financiera y bienestar.</h3>
       </div>
       <div class="col-sm-8 d-flex justify-content-start offset-sm-2" > 
-          <p>También nos enorgullece decirte que somos una SOFIPO regulada por la CNBV para que tengas la tranquilidad de que tu dinero está protegido por el gobierno mexicano y está a tu alcance en todo momento.</p>
+          <p>También nos enorgulloce decir que somos una Fintech y estamos regulados por la CNBV. ES muy importante para nosotros cumplir con la regulación gubernamental aplicable y as+i poder ofrecer servicios de calidad que brinden confianza a nuestros clientes.</p>
       </div>
     </div>
   </div>
