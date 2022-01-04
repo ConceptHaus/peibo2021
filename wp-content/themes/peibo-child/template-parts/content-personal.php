@@ -241,7 +241,7 @@ get_header();
             <h2>Contacto</h2>
           </div>
           <div class="form-row">
-            <label>¿Tienes alguna duda o comentario para nosotros?<br/> Completa el siguiente formulario para contactar con nuestro equipo.</label>
+            <label>¿Tienes alguna duda o comentario para nosotros?<br/> Completa el siguiente formulario para contactar a nuestro equipo.</label>
           </div>
           <div class="form-row mt-4">
             <div class="form-group col-md-6 ">
