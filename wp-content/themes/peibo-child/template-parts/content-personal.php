@@ -165,7 +165,7 @@ get_header();
     </div>
   </div>
 
-  <div class="downloadApp">
+ <!-- <div class="downloadApp">
     <div class="container sectionStores">
       <div class="row justify-content-center">
         <div class="col-sm-12 d-flex contCvv" > 
@@ -183,7 +183,7 @@ get_header();
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 </section>
 
 <section class="secMaskTwo mask2">
@@ -195,7 +195,7 @@ get_header();
       </div> 
       <div class="col-sm-11 d-flex justify-content-center text-center mb-4 offset-sm-1 boxDesc">
         <p>
-          Es muy importante para nosotros construir una empresa con valores que estén alineados con el escenario actual en el mundo, por ello, mantener la seguridad y privacidad de tu cuenta es nuestra máxima prioridad. 
+          Somos una empresa 100% mexicana que busca una inclusión financiera a través de herramientas fáciles de utilizar, protegiendo la información de nuestros clientes/usuarios.
         </p>
       </div>
       <div class="col-sm-9 d-flex justify-content-start offset-sm-4 mt-3" >
@@ -215,7 +215,7 @@ get_header();
           <h3>Queremos diseñar y ofrecer productos que fomenten tu salud financiera y bienestar.</h3>
       </div>
       <div class="col-sm-8 d-flex justify-content-start offset-sm-2" > 
-          <p>También nos enorgullece decirte que somos una SOFIPO regulada por la CNBV para que tengas la tranquilidad de que tu dinero está protegido por el gobierno mexicano y está a tu alcance en todo momento.</p>
+          <p>También nos enorgulloce decir que somos una Fintech y estamos regulados por la CNBV. ES muy importante para nosotros cumplir con la regulación gubernamental aplicable y as+i poder ofrecer servicios de calidad que brinden confianza a nuestros clientes.</p>
       </div>
     </div>
   </div>
@@ -241,7 +241,7 @@ get_header();
             <h2>Contacto</h2>
           </div>
           <div class="form-row">
-            <label>¿Tienes alguna duda o comentario para nosotros?<br/> Completa el siguiente formulario para contactar con nuestro equipo.</label>
+            <label>¿Tienes alguna duda o comentario para nosotros?<br/> Completa el siguiente formulario para contactar a nuestro equipo.</label>
           </div>
           <div class="form-row mt-4">
             <div class="form-group col-md-6 ">

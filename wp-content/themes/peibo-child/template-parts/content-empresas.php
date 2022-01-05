@@ -23,7 +23,7 @@ get_header();
     <div class="row">
       <div class="col-sm-6 mt-5 justify-content-center d-flex">
         <div class="row mt-5">
-          <h1 class="animate__animated animate__bounce animate__delay-1s animate__fadeInLeftBig">Abre tu cuenta en menos de <strong class="horasSub">24 horas.</strong></h1>
+          <h1 class="animate__animated animate__bounce animate__delay-1s animate__fadeInLeftBig">Abre tu cuenta en menos de <strong class="horasSub">24 horas.*</strong></h1>
           <div class="col-md-12 col-xs-10 offset-xs-1 offset-md-0 d-flex justify-content-center noMargin mt-3">
             <label class="animate__animated animate__bounce animate__delay-1s animate__fadeInLeftBig">Realiza dispersiones masivas de pagos a toda tu nómina, proveedores o vendedores y agiliza tu proceso de pago.</label>
           </div>
