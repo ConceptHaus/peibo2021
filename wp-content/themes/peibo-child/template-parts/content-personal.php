@@ -198,14 +198,14 @@ get_header();
           Somos una empresa 100% mexicana que busca una inclusión financiera a través de herramientas fáciles de utilizar, protegiendo la información de nuestros clientes/usuarios.
         </p>
       </div>
-      <div class="col-sm-9 d-flex justify-content-start offset-sm-4 mt-3" >
+      <!-- <div class="col-sm-9 d-flex justify-content-start offset-sm-4 mt-3" >
         <h4>Somos una Empresa 100% mexicana.</h4>
       </div> 
       <div class="col-sm-8 d-flex justify-content-start offset-sm-4 mt-4 boxDesc mb-5">
         <p>
           Apoyamos la inclusión financiera y sabemos cómo afecta de manera positvia a la calidad de vida de las personas.
         </p>
-      </div>                
+      </div>                 -->
     </div>
   </div>
           
