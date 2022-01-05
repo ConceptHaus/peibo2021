@@ -27,6 +27,9 @@ get_header();
           <div class="col-md-12 col-xs-10 offset-xs-1 offset-md-0 d-flex justify-content-center noMargin mt-3">
             <label class="animate__animated animate__bounce animate__delay-1s animate__fadeInLeftBig">Realiza dispersiones masivas de pagos a toda tu nómina, proveedores o vendedores y agiliza tu proceso de pago.</label>
           </div>
+          <div class="col-md-12 col-xs-10 offset-xs-1 offset-md-0 d-flex justify-content-center noMargin">
+            <p class="animate__animated animate__bounce animate__delay-1s animate__fadeInLeftBig"><small>* Aplícan Términos y Condiciones.</small></p>
+          </div>
 
           <div class="col-sm-12 d-flex justify-content-center contCvv">
             <div class="container-fluid">
